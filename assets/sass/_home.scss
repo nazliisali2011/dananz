@@ -1,0 +1,56 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: $margin-15x;
+}
+
+.btn1 {
+    border: none;
+    background-color: $main_color;
+    color: $white;
+    padding: $padding-x;
+}
+.first{
+    text-align: center;
+    margin-top: $margin-8x;
+}
+.h6_1{
+    margin-top: $margin-8x;
+}
+.second img{
+    margin-top: $margin-8x;
+}
+.third{
+    margin-top: $margin-4x;
+    margin-bottom: $margin-8x;
+}
+p{
+    color: $text;
+}
+.fifth{
+    background-color: $main_color;
+    padding: $padding-2x;
+    margin-top: $margin-7x;
+}
+.fifth h1{
+    color: $white;
+}
+.fifth h6{
+    color: #D9D9D9;
+    margin-bottom: $margin-3x;
+}
+.btn2{
+    border: none;
+    color: $main_color;
+    padding: $padding-x;
+}
+.sixth{
+    padding: $padding-8x;
+}
+.email{
+    border: none;
+    margin-bottom: $margin-3x;
+}
+.sixth i{
+    margin-right: $margin-2x;
+}
